@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumitBhawal
-- 👀 I’m interested in MERN Development
-- 🌱 I’m currently learning Node and Express
-- 💞️ I’m looking to collaborate on Full stack JS projects
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Laravel and Vue
+- 💞️ I’m looking to collaborate on Full stack JS projects or Laravel Projects
 - 📫 How to reach me sumitbhawal1997@gmail.com/ 8617499704
 
 <!---
