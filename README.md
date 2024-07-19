@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Laravel and Vue
 - 💞️ I’m looking to collaborate on Full stack JS projects or Laravel Projects
-- 📫 How to reach me sumitbhawal1997@gmail.com/ 8617499704
+- 📫 How to reach me sumitbhawal1997@gmail.com
 
 <!---
 SumitBhawal/SumitBhawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
