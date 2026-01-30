@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumitBhawal
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Laravel and Vue
-- 💞️ I’m looking to collaborate on Full stack JS projects or Laravel Projects
+- 👀 I’m interested in generative AI
+- 🌱 I’m currently learning Generative AI
+- 💞️ I’m looking to collaborate on gen Ai projects
 - 📫 How to reach me sumitbhawal1997@gmail.com
 
 <!---
